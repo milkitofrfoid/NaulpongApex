@@ -22,8 +22,8 @@ const TAGLINE: Record<CharacterId, string> = {
 };
 
 const COLOR: Record<CharacterId, string> = {
-  "hijo-fiesta": "#00e5ff",
-  clavel: "#ff2e93",
+  "hijo-fiesta": "#d4302c",
+  clavel: "#f0a500",
 };
 
 /**
